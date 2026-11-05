@@ -1,0 +1,6 @@
+{
+  "name": "Pipeline Projects Management System",
+  "description": "Enterprise lifecycle management for continental initiatives, project pipeline development, appraisal, CEO approval, and contracting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
